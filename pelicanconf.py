@@ -3,13 +3,12 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Piotr Grzesik'
-SITENAME = 'Piotr Grzesik\'s blog'
+SITENAME = 'Piotr Grzesik'
 SITEURL = ''
-SITETITLE = AUTHOR
 SITESUBTITLE = 'Software developer'
 
 
-THEME = 'flex-theme'
+THEME = 'clean-blog-theme'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
@@ -29,9 +28,6 @@ SOCIAL = (('envelope', 'mailto:pj.grzesik@gmail.com'),
           ('twitter', 'https://twitter.com/p_grzesik'),
           ('github', 'https://github.com/pgrzesik'),
           ('linkedin', 'https://www.linkedin.com/in/piotr-grzesik-a8bb8067'))
-
-USE_FOLDER_AS_CATEGORY = False
-MAIN_MENU = True
 
 # Menu items
 MENUITEMS = (('Archives', '/archives.html'),
