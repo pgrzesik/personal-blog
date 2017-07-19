@@ -6,6 +6,7 @@ AUTHOR = 'Piotr Grzesik'
 SITENAME = 'Piotr Grzesik'
 SITEURL = ''
 
+THEME = 'flex-theme'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
@@ -26,8 +27,10 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('envelope', 'mailto:pj.grzesik@gmail.com'),
+          ('twitter', 'https://twitter.com/p_grzesik'),
+          ('github', 'https://github.com/pgrzesik'),
+          ('linkedin', 'https://www.linkedin.com/in/piotr-grzesik-a8bb8067'))
 
 DEFAULT_PAGINATION = 10
 
