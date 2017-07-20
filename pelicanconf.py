@@ -14,6 +14,7 @@ PATH = 'content'
 TIMEZONE = 'Europe/Warsaw'
 
 DEFAULT_LANG = 'en'
+LOCALE = 'en_US.utf8'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
