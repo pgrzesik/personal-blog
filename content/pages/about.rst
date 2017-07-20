@@ -6,8 +6,6 @@ About
 :date: 2017-07-19
 :modified: 2017-07-20
 
-Hello!
-
 Who I am and what I do
 ======================
 
