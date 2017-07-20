@@ -36,5 +36,7 @@ MENUITEMS = (('Archives', '/archives.html'),
 
 DEFAULT_PAGINATION = 10
 
+ARTICLE_PATHS = ['articles']
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
