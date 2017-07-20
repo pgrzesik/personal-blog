@@ -11,7 +11,7 @@ SITESUBTITLE = 'Software developer'
 THEME = 'clean-blog-theme'
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Warsaw'
 
 DEFAULT_LANG = 'en'
 
